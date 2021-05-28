@@ -1,0 +1,8 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "indent": ["warn", 2],
+    "react/jsx-indent": ["warn", 2],
+    "jsx-quotes": ["error", "prefer-single"]
+  }
+}

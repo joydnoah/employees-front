@@ -1,0 +1,1 @@
+export const EMPLOYEES_SERVICE = process.env.REACT_APP_EMPLOYEES_SERVICE
